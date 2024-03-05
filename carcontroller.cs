@@ -8,7 +8,7 @@ using System.Threading;
 
 public class Carcontroller : MonoBehaviour
 {
-    // public REKLAMADDMOBS reklam;
+    // public REKLAMADDMOBS reklam; // reklam için eklemiştim artık ihtiyac kalmadı
     [SerializeField] private Text SpeedText;
     public FixedJoystick joystick;
     private Rigidbody m_Rigidbody;
