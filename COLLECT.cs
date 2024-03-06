@@ -35,6 +35,6 @@ public class COLLECT : MonoBehaviour
     private void highscoreDisplay()
     {
         score = 0;
-        higScoreDisplayText.text = PlayerPrefs.GetInt("highscore").ToString();
+        higScoreDisplayText.text = PlayerPrefs.GetInt("highscore").ToString(); // highscore u int olarak alıp tostringle string e çeviriyoruz
     }
 }
