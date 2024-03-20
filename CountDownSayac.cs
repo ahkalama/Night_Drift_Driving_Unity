@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+//geri sayım icin
 public class CountDownSayac : MonoBehaviour
 {
     public int i;
