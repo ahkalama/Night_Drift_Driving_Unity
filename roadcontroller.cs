@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class roadcontroller : MonoBehaviour
 {
+// Sonsuz Yol Oluşturucu
     public GameObject space;
     private void OnTriggerEnter(Collider other)
     {
