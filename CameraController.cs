@@ -10,5 +10,5 @@ public class CameraController : MonoBehaviour
     }
 }
 
-// LateUpdate fonksiyonu, diğer tüm Update fonksiyonları çağrıldıktan sonra çalıştırılır.
+// Late Update fonksiyonu, diğer tüm Update fonksiyonları çağrıldıktan sonra çalıştırılır.
 // Yani diğer nesnelerin pozisyonları vb. güncellendikten sonra kamera pozisyonunu ayarlar.
